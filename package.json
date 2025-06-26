@@ -1,0 +1,14 @@
+{
+  "name": "profile-summary",
+  "version": "1.0.0",
+  "description": "My profile in a website.",
+  "main": "server.js",
+  "scripts": {
+    "test": "node -e \"console.log(\\\"No tests specified\\\")\"",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
